@@ -1,0 +1,3 @@
+gmail.com resolve to 216.58.196.5
+google.com resolve to 172.217.27.238
+twitter.com resolve to 104.244.42.129
